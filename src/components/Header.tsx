@@ -57,7 +57,7 @@ const Header = ({
           <div className="flex space-x-4 pt-4">
             <Button
               variant="outline"
-              className="bg-purple-500 hover:bg-purple-800 hover:text-white"
+              className="bg-purple-500 hover:bg-purple-800 text-white"
             >
               View Work
             </Button>
